@@ -1,0 +1,50 @@
+.no-background {
+    background-color: none;
+}
+
+.purple-background {
+    background-color: purple;
+    }
+
+.red-background {
+    background-color: red;
+    }
+
+.green-background {
+    background-color: green;
+    }
+
+.orange-background {
+    background-color: orange;
+    }
+
+li {
+    border: black;
+    border-width: 5px;
+    border-style:solid;
+    padding: 2%;
+    margin: 1%;
+    width: 150px;
+    height: 5px;
+    list-style-type: none;
+}
+
+.ul {
+    display:none;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.orange {
+    background-color: orange;
+}
